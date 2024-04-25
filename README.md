@@ -17,3 +17,15 @@ High Level components that we incorporated were **Firebase**, **Google Map API**
 * **Firebase** is used to help store user information
 * **Google Map API** helps us mark events on a map, and show protests in the users area
 
+### Feedback / Testing / Iteration
+The feedback we received were two factor authentication for users who worry about the safety of their account, and a filter for certain words that can cause hate speech. We mostly received positive feedback, but most of the feedback we have received were additional changes we can add onto the application to be more seamless and UI friendly.
+
+One technical issue we had faced was getting access to certain Google APIs such as Google Maps because we had to wait on Google tokens in order to get access to the Google Map API. This delayed our progress for a couple days.
+
+### Success and Completion of Solution
+Our solution addresses the problem by making it more accessible to overview social justice movements. As our application is currently incomplete, we have worked on our login page before accessing the homepage, so the quantifiable data that is getting collected, is just user information for logging in with an account. 
+
+### Scalability / Next Steps
+The next steps working onto our project is refreshing the look of our web UI, making sure the user's safety is ensured, and working with the google map api to load directions if users are going to a movement by vehicle. To reach a larger audience, we would like to reach out to reliable social justice movement groups, as they can help us reach to a larger audience that loves to preach about social injustice.
+
+We can successfully scale with a larger audience due to Google's APIs. The only data that will increase with a larger audience is the database for login credentials and event details. Google's database is able to support this application as the amount of data for these two items increases.
